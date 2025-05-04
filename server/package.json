@@ -1,0 +1,18 @@
+{
+  "name": "youtube-clone-backend",
+  "version": "1.0.0",
+  "description": "Backend for YouTube clone with XP system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+} 
