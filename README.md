@@ -22,7 +22,7 @@ A modern video platform built with React and TypeScript, featuring an XP-based r
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/55HuNTeR55/youtube-xp-system.git
 ```
 
 2. Install dependencies
